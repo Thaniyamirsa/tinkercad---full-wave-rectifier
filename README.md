@@ -1,0 +1,1 @@
+# tinkercad---full-wave-rectifier
