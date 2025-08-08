@@ -24,7 +24,7 @@ This repository contains various basic circuit simulations created using [Tinker
 
 ## 🔗 Project Links
 - [View in Tinkercad - Full Wave Rectifier](https://www.tinkercad.com/things/9kEJfm31ycb-glorious-turing-amur/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=G2aX6q3U3euXej9nGuQtGPsoSiLqPqWmHYtIipot2_E)
-- [View in Tinkercad - Half Wave Rectifier](#)
+  
 - [View in Tinkercad - LED Battery Circuit](https://www.tinkercad.com/things/3vgMifKGKuG-grand-fyyran/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=AE29073wE9psafEiY04H6NSpW06pLRz85Ubg_uqW0cU)
 
 > _(Replace # with the actual Tinkercad share links)_
